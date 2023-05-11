@@ -1,0 +1,7 @@
+expo install expo-font
+
+expo install react-native-screens
+expo install react-native-safe-area-context
+
+npm install @react-navigation/native
+expo install @react-navigation/native-stack
